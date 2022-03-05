@@ -21,8 +21,8 @@ echo "<hr>";
 // snake_case : $nama_depan_mahasiswa
 // camelCase : namaDepanMahasiswa
 // kebab-case : nama-depan-mahasiswa
-$nama = 'nabila';
-$nama = 'putri';
+$nama = 'azka';
+$nama = 'ganteng';
 echo $nama;
 echo "<hr>";
 
@@ -44,6 +44,4 @@ echo "<hr>";
 // Identitas 
 // ===, !==
 echo 10 === "10";
-
-
-
+?>
